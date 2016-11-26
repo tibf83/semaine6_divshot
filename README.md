@@ -1,2 +1,3 @@
-# semaine6_divshot
-integration maquette avec bootstrap
+# semaine6_divshot  
+  
+Integration d'une maquette (Divshot) avec Bootstrap ;
